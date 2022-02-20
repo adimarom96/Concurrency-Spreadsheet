@@ -1,0 +1,10 @@
+C:\Users\adidi\source\repos\ass3 windowsfrom new\ass3 windowsfrom new\bin\Debug\ass3 windowsfrom new.exe.config
+C:\Users\adidi\source\repos\ass3 windowsfrom new\ass3 windowsfrom new\bin\Debug\ass3 windowsfrom new.exe
+C:\Users\adidi\source\repos\ass3 windowsfrom new\ass3 windowsfrom new\bin\Debug\ass3 windowsfrom new.pdb
+C:\Users\adidi\source\repos\ass3 windowsfrom new\ass3 windowsfrom new\obj\Debug\ass3_windowsfrom_new.Form1.resources
+C:\Users\adidi\source\repos\ass3 windowsfrom new\ass3 windowsfrom new\obj\Debug\ass3_windowsfrom_new.Properties.Resources.resources
+C:\Users\adidi\source\repos\ass3 windowsfrom new\ass3 windowsfrom new\obj\Debug\ass3 windowsfrom new.csproj.GenerateResource.cache
+C:\Users\adidi\source\repos\ass3 windowsfrom new\ass3 windowsfrom new\obj\Debug\ass3 windowsfrom new.csproj.CoreCompileInputs.cache
+C:\Users\adidi\source\repos\ass3 windowsfrom new\ass3 windowsfrom new\obj\Debug\ass3 windowsfrom new.exe
+C:\Users\adidi\source\repos\ass3 windowsfrom new\ass3 windowsfrom new\obj\Debug\ass3 windowsfrom new.pdb
+C:\Users\adidi\source\repos\ass3 windowsfrom new\ass3 windowsfrom new\obj\Debug\ass3 windowsfrom new.csprojAssemblyReference.cache

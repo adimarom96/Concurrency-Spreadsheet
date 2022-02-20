@@ -1,0 +1,20 @@
+C:\Users\adidi\source\repos\ass3 windowsfrom new\ass3 windowsfrom new\bin\Debug\ass3 windowsfrom new.exe.config
+C:\Users\adidi\source\repos\ass3 windowsfrom new\ass3 windowsfrom new\bin\Debug\ass3 windowsfrom new.exe
+C:\Users\adidi\source\repos\ass3 windowsfrom new\ass3 windowsfrom new\bin\Debug\ass3 windowsfrom new.pdb
+C:\Users\adidi\source\repos\ass3 windowsfrom new\ass3 windowsfrom new\obj\Debug\SpreadsheetApp.csprojAssemblyReference.cache
+C:\Users\adidi\source\repos\ass3 windowsfrom new\ass3 windowsfrom new\obj\Debug\ass3_windowsfrom_new.Form1.resources
+C:\Users\adidi\source\repos\ass3 windowsfrom new\ass3 windowsfrom new\obj\Debug\ass3_windowsfrom_new.Properties.Resources.resources
+C:\Users\adidi\source\repos\ass3 windowsfrom new\ass3 windowsfrom new\obj\Debug\SpreadsheetApp.csproj.GenerateResource.cache
+C:\Users\adidi\source\repos\ass3 windowsfrom new\ass3 windowsfrom new\obj\Debug\SpreadsheetApp.csproj.CoreCompileInputs.cache
+C:\Users\adidi\source\repos\ass3 windowsfrom new\ass3 windowsfrom new\obj\Debug\ass3 windowsfrom new.exe
+C:\Users\adidi\source\repos\ass3 windowsfrom new\ass3 windowsfrom new\obj\Debug\ass3 windowsfrom new.pdb
+C:\Users\adidi\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\SpreadsheetApp.exe.config
+C:\Users\adidi\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\SpreadsheetApp.exe
+C:\Users\adidi\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\SpreadsheetApp.pdb
+C:\Users\adidi\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\SpreadsheetApp.Form1.resources
+C:\Users\adidi\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\SpreadsheetApp.Properties.Resources.resources
+C:\Users\adidi\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\SpreadsheetApp.csproj.GenerateResource.cache
+C:\Users\adidi\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\SpreadsheetApp.csproj.CoreCompileInputs.cache
+C:\Users\adidi\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\SpreadsheetApp.exe
+C:\Users\adidi\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\SpreadsheetApp.pdb
+C:\Users\adidi\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\SpreadsheetApp.csproj.AssemblyReference.cache
