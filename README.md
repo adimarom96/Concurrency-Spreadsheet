@@ -1,7 +1,7 @@
 
 This is core object of a spreadsheet that can be shared between multiple concurrent users like Google Docs and Google Sheets.
 The spreadsheet represent a table of n*m cells (n=rows, m=columns).
-Each cell holds a string (C# string).
+Each cell holds a string .
 The spreadsheet object can be access concurrently by many users, and users can perform arbitrary operations concurrently.
 
 To  implent this spreadsheet I used multiply locks - smephores and mutexs to avoid any deadlock or crashes during runtime, base on reader writer strategy.
